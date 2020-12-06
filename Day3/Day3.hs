@@ -1,5 +1,6 @@
 -- Created on 03 Dec 2020 by richard.stewing@udo.edu
-
+-- Copyright Richard Stewing, 2020
+-- Licenced under GPLv3
 module Day3 where
 
 import System.IO(readFile)
