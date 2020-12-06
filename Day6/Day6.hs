@@ -1,6 +1,6 @@
 -- Created on 06 Dec 2020 by richard.stewing@udo.edu
 -- Copyright Richard Stewing, 2020
--- Licenced under GPLv3
+-- Licensed under GPLv3
 module Day6 where
 
 import Data.List(nub, intersect)
